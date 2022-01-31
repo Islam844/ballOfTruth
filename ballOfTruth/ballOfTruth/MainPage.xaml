@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ballOfTruth.MainPage">
+
+    <StackLayout Background="White">
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Хочешь узнать правда или ложь?" 
+               FontSize="Title" Padding="30,10,30,10"
+               TextColor="Black"/>
+        <Label x:Name="trueOrFalse_Label" Text="Жми кнопку" 
+               FontSize="48" Padding="30"
+               HorizontalOptions="Center"
+               TextColor="black"/>
+        <ImageButton x:Name="button" Source="Component1.png"
+                     Clicked="onButtonClicked"
+                     Pressed="onButtonPressed"
+                     Released="onButtonReleased"
+                     BackgroundColor="Transparent"
+                     
+                     />
+        <Label  FontSize="18" Padding="30" HorizontalOptions="Center"/>
+    </StackLayout>
+
+</ContentPage>

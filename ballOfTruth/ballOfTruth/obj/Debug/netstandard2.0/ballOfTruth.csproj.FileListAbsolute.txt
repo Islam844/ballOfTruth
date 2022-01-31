@@ -1,0 +1,14 @@
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\bin\Debug\netstandard2.0\ballOfTruth.deps.json
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\bin\Debug\netstandard2.0\ballOfTruth.dll
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\bin\Debug\netstandard2.0\ref\ballOfTruth.dll
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\bin\Debug\netstandard2.0\ballOfTruth.pdb
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\obj\Debug\netstandard2.0\ballOfTruth.csproj.AssemblyReference.cache
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\obj\Debug\netstandard2.0\App.xaml.g.cs
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\obj\Debug\netstandard2.0\ballOfTruth.AssemblyInfoInputs.cache
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\obj\Debug\netstandard2.0\ballOfTruth.AssemblyInfo.cs
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\obj\Debug\netstandard2.0\ballOfTruth.csproj.CoreCompileInputs.cache
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\obj\Debug\netstandard2.0\XamlC.stamp
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\obj\Debug\netstandard2.0\ballOfTruth.dll
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\obj\Debug\netstandard2.0\ref\ballOfTruth.dll
+M:\admin\source\repos\ballOfTruth\ballOfTruth\ballOfTruth\obj\Debug\netstandard2.0\ballOfTruth.pdb
